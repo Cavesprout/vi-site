@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Vi is really hecking cool!
         </a>
       </header>
     </div>
